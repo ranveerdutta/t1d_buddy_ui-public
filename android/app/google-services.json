@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "XXX",
+    "project_id": "t1d-buddy",
+    "storage_bucket": "t1d-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "XXX",
+        "android_client_info": {
+          "package_name": "XXX"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "XXX",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "XXX",
+            "certificate_hash": "XXX"
+          }
+        },
+        {
+          "client_id": "XXX",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "XXX",
+            "certificate_hash": "XXX"
+          }
+        },
+        {
+          "client_id": "XXX",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "XXX",
+            "certificate_hash": "XXX"
+          }
+        },
+        {
+          "client_id": "XXX",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "XXX"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "XXX",
+              "client_type": 3
+            },
+            {
+              "client_id": "XXX",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "XXX"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
